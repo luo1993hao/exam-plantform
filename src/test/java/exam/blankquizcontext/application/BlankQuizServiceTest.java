@@ -1,4 +1,4 @@
-package exam.paperContext.domain.model.paper;
+package exam.blankquizcontext.application;
 
 import exam.blankquizcontext.application.BlankQuizCreateCommand;
 import exam.blankquizcontext.application.BlankQuizDeleteCommand;
